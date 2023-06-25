@@ -10,15 +10,6 @@ cover: https://cdn.ad-attacks.com/ActiveDirectoryZerologonAttack.png
 
 
 
-
-{% mermaid %}
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-{% endmermaid %}
-
 ## Build your Infrastructure
 
 
